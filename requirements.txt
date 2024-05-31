@@ -1,0 +1,9 @@
+streamlit
+warnings
+datetime
+yfinance
+prophet
+plotly
+nltk
+requests
+stocknews
