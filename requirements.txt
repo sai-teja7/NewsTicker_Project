@@ -1,5 +1,4 @@
 streamlit
-warnings
 datetime
 yfinance
 prophet
